@@ -1,6 +1,1 @@
-
-
-<!---
-TenthStreetStudios/TenthStreetStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository contains data for Mining @ Tenth Street: Visualizing New York City's Tenth Street Studio Building, a digital humanities project that explores the history of Richard Morris Hunt's Tenth Street Studio Building (1857-1956) and the social network of tenants, patrons, and guests affiliated with this remarkable structure in Greenwich Village. To learn more, please see Mary Okin with Celie Mitchard, “From Center to Periphery: The Lifespan of New York City’s Tenth Street Studio Building and the Canon of American Art,” Panorama: Journal of the Association of Historians of American Art 8, no. 2 (Fall 2022), https://doi.org/10.24926/24716839.1539, and the Mining @ Tenth Street project website at www.tenthstreetstudios.com Questions? Please contact Mary Okin at tenthstreetstudiobuilding@gmail.com.
